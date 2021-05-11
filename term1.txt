@@ -1,0 +1,1 @@
+15112hw,6,24,normal,eimp,1,300;18100hw,5,12,diff,imp,200,200;18100lab,2,22,vdiff,normal,300,300

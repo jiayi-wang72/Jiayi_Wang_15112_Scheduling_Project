@@ -1,0 +1,44 @@
+Please read the following instructions VERY carefully! 
+
+Weekly Scheduling allows you to make up to 15 different weekly tasks and helps you to make 
+reasonable weekly planners with estimation of the workload based on performances in the past 
+weeks. You can also add one-time event for the next three weeks if such event is not desired 
+routinely. This program manages your calendar in only one direction by accepting feedbacks but 
+not deleting any previous ones from the previous weeks once you tell us you want to save the 
+feedback! You might NOT want to make repetitive or wrong feedbacks to affect how the program 
+helps you to make useful calendar! If you accidentally made wrong feedbacks, don't worry! Just 
+delete the current task and create a new one with your best estimation of the predicted workload.
+
+We provide three weeks of calendar from this week, assuming that your past performances on tasks 
+in the recent three to four weeks are the most representative ones (that means whatever predicted
+workload you have right now will mainly affect your calendar in the next three weeks but not 
+forever because workload changes over time). Although you do not have to create one-time event,
+please make at least one weekly task for us to generate a valid and useful weekly schedule for you!
+
+The following instructions guide you through how to use Weekly Scheduling, hope you enjoy!
+
+***Settings Page
+    1) Save: click on 'Save' to save the current settings (does not make new calendar);
+    2) Calendar Preference: click on calendar preference to choose mode;
+    3) Meal time: click on meal time to choose hours of meal time.
+
+***Input Page
+    1) Create: click on 'Create' to create tasks, please do not give repetitive names to tasks;
+    2) Delete: click on 'Delete' to delete any tasks no longer needed;
+    3) Customize: click on 'Customize' to make one-time events;
+    4) Save: click on 'Save' to save your current plan and make a new calendar!
+
+***Customize Page (inside input page)
+    1) Create: press and release mouse to choose time period for one-time events;
+    2) Delete: click on cell to delete any events no longer needed.
+
+***Feedback Page
+    1) Task List: click on tasks in the task list to make weekly feedbacks (one time per week);
+    2) Difficult: click on boxes under 'Difficult' if you think certain tasks are difficult;
+    3) Important: click on boxes under 'Important' if you think certain tasks are important;
+    4) Save: click on 'Save' to save your current plan and make a new calendar (once you click on 
+            'Save', the program automatically moves you to the next week, so please be careful).
+
+***Calendar Page
+    1) Calendar: click on cells in calendar to see information of the task;
+    2) Download: click on 'Download' to take a snapshot and download the current calendar!
